@@ -1,5 +1,57 @@
 # Changelog
 
+## 9.2.9
+
+* Bump Intercom Android SDK version to 15.15.2
+
+## 9.2.8
+
+* Bump Intercom Android SDK version to 15.15.0
+* Bump Intercom iOS SDK version to 18.6.4
+
+## 9.2.7
+
+* Bump Intercom Android SDK version to 15.14.0
+* Bump Intercom iOS SDK version to 18.6.0
+
+## 9.2.6
+
+* Bump Intercom Android SDK version to 15.13.0
+* Bump Intercom iOS SDK version to 18.5.0
+
+## 9.2.5
+
+* Bump Intercom Android SDK version to 15.12.0
+* Bump Intercom iOS SDK version to 18.4.0
+
+## 9.2.4
+
+* Bump Intercom Android SDK version to 15.11.5
+* Bump Intercom iOS SDK version to 18.3.0
+
+## 9.2.3
+
+* Bump Intercom Android SDK version to 15.11.4
+* Bump Intercom iOS SDK version to 18.2.2
+
+## 9.2.2
+
+* Bump Intercom Android SDK version to 15.11.3
+* Bump Intercom iOS SDK version to 18.2.1
+
+## 9.2.1
+
+* Bump Intercom Android SDK version to 15.11.2
+
+## 9.2.0
+
+* Bump Intercom Android SDK version to 15.11.1
+* Bump Intercom iOS SDK version to 18.2.0
+* Added API `isUserLoggedIn`.
+* Added API `fetchLoggedInUserAttributes`.
+* Fixed [#479](https://github.com/v3rm0n/intercom_flutter/issues/479).
+* Fixed [#481](https://github.com/v3rm0n/intercom_flutter/issues/481).
+
 ## 9.1.1
 
 * Bump Intercom iOS SDK version to 18.1.0
